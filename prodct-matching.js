@@ -23,3 +23,15 @@ function matchedItem(products, search){
 
 const result = matchedItem(products, "phone");
 console.log(result);
+console.log(5/0);
+console.log("123" + 123);
+console.log("123"- "120");
+console.log("123" + 120);
+console.log(6/ "3");
+
+let a= "”hi”";
+
+let b= "”there”";
+
+console.log(a+b);
+
